@@ -15,6 +15,9 @@ This guide explains how to set up a **Reflector** and **Mirror** system using Do
 
 ## 🚀 Reflector Setup
 
+The Reflector acts as the public-facing entry point, securely forwarding all incoming traffic to the Mirror while masking the true server location and preserving the integrity of the backend system.
+
+
 ### 1. Clone the repository
 
 ```bash
