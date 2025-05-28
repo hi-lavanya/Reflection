@@ -1,6 +1,6 @@
 # 🛡️ Reflection Guide
 
-This guide explains how to set up a **Reflector** system using Docker. The reflector forwards traffic securely to a mirror server, creating a protected proxy layer. For complete setup 
+This guide explains how to set up a **Reflector** system using Docker. The reflector forwards traffic securely to a mirror server, creating a protected proxy layer. For complete setup go through https://github.com/hi-lavanya/mirror/.
 
 ---
 
